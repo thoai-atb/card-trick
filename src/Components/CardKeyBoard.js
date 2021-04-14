@@ -4,7 +4,7 @@ import CardKeyBoardButton from './CardKeyBoardButton'
 export default function CardKeyBoard({onKeyPress}) {
     return (
         <div className='card'>
-            <h2>Key Board</h2>
+            <h2>Keyboard</h2>
             <hr></hr>
             <div className='card-keyboard-group'>
                 <CardKeyBoardButton onKeyPress={onKeyPress} value={'♠'}/>
