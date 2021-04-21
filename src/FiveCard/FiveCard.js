@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import './CardTrick.css'
+import './FiveCard.css'
 import CardName from './CardName'
 import CardKeyBoard from './CardKeyBoard'
 
